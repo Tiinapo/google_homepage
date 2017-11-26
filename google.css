@@ -3,7 +3,10 @@ ul {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background-color: gray;
+}
+
+.footer {
+	background-color: #cdd0d6;
 }
 
 .icon {
@@ -12,17 +15,27 @@ ul {
 
 .logo {
 	display: block;
-	width: 20em;
+	width: 17.5em;
 	margin: auto;
+	padding-top: 10em;
 }
 
 input {
 	display: block;
 	margin: auto;
+	margin-top: 2em;
+	padding: 0.5em;
+	width: 40em;
+	height: 2em;
+	border: none;
+
+
+	box-shadow: 0px 0px 10px 0px #C2C6C4;
 }
 
 .buttons {
 	text-align: center;
+	margin-top: 2em;
 }
 
 li {
