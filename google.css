@@ -1,0 +1,30 @@
+ul {
+	list-style-type: none;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+}
+
+.icon {
+	width: 2em;
+}
+
+.logo {
+	display: block;
+	width: 20em;
+	margin: auto;
+}
+
+input {
+	display: block;
+	margin: auto;
+}
+
+.buttons {
+	text-align: center;
+}
+
+li {
+	display: inline;
+}
