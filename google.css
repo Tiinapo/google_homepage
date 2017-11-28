@@ -1,3 +1,7 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
 ul {
 	list-style-type: none;
 	height: 100%;
@@ -6,7 +10,7 @@ ul {
 }
 
 .footer {
-	background-color: #cdd0d6;
+	background-color: #eceef2;
 }
 
 .icon {
@@ -29,13 +33,23 @@ input {
 	height: 2em;
 	border: none;
 
-
 	box-shadow: 0px 0px 10px 0px #C2C6C4;
 }
 
 .buttons {
 	text-align: center;
 	margin-top: 2em;
+}
+
+button {
+	padding: 0.75em;
+
+	font-family: 'Oswald', sans-serif;
+	font-weight: 600;
+	color: #68696a;
+	
+	background: #eceef2;
+	border: none;
 }
 
 li {
